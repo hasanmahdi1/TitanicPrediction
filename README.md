@@ -1,3 +1,1 @@
 # TitanicPrediction
-# BusstopUtilizationPrediction
-# BusstopUtilizationPrediction
